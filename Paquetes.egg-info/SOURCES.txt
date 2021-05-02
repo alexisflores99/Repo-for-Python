@@ -1,0 +1,8 @@
+setup.py
+Paquetes/__init__.py
+Paquetes.egg-info/PKG-INFO
+Paquetes.egg-info/SOURCES.txt
+Paquetes.egg-info/dependency_links.txt
+Paquetes.egg-info/top_level.txt
+Paquetes/op1/suma.py
+Paquetes/op2/resta.py
